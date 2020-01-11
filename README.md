@@ -11,4 +11,4 @@ Chris Berg is a kind mustached man
 
 Big new research idea, top secret
 
-small reseaarch idea
+small reseaarch ideaa single line for my desktop
