@@ -6,3 +6,5 @@ This is a test of my ability to commit from Rstudio
 Chris Berg is a kind mustached man
 
 Shan is very smart
+
+bla bla
